@@ -26,3 +26,7 @@ console.log("Ime psa (dog) preko metode " + dog.imePsa());
 console.log("Imew psa2 (dog2) preko metode " + dog1.imePsa());
 console.log("Pas1 se glasa = " + dog.bark());
 console.log("Pas2 se glasa = " + dog1.bark());
+
+function print (intext){
+    console.log(intext);
+}
