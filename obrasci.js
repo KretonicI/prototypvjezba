@@ -19,6 +19,9 @@ var brojanjeKoraka= (function(){
             koraci += 5;
         }
     }
+
 })();
+
+
 
 module.exports = brojanjeKoraka;
